@@ -1,4 +1,4 @@
-,url,kesto,kenttä,pvm,aika,päivä,paiva_i,paikka
+,url,kesto,resid,pvm,aika,paiva,paiva_i,paikka
 2022-11-05 10:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-05+10%3A00%3A00&kesto=60&resid=7,60,7,05.11.2022,10:00:00,Saturday,5,Meilahti
 2022-11-11 19:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-11+19%3A00%3A00&kesto=60&resid=8,60,8,11.11.2022,19:00:00,Friday,4,Meilahti
 2022-11-13 12:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-13+12%3A00%3A00&kesto=60&resid=1,60,1,13.11.2022,12:00:00,Sunday,6,Meilahti
