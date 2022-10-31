@@ -1,17 +1,18 @@
-alkuaika,url,kesto,kenttä,aika,päivä,paiva_i,paikka
-2022-11-11 19:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-11+19%3A00%3A00&kesto=60&resid=8,60,8,19:00:00,Friday,4,Meilahti
-2022-11-18 19:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-18+19%3A00%3A00&kesto=60&resid=4,60,4,19:00:00,Friday,4,Meilahti
-2022-11-25 19:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-25+19%3A00%3A00&kesto=60&resid=4,60,4,19:00:00,Friday,4,Meilahti
-2022-11-05 10:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-05+10%3A00%3A00&kesto=60&resid=7,60,7,10:00:00,Saturday,5,Meilahti
-2022-11-13 12:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-13+12%3A00%3A00&kesto=60&resid=1,60,1,12:00:00,Sunday,6,Meilahti
-2022-11-13 12:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-13+12%3A00%3A00&kesto=60&resid=3,60,3,12:00:00,Sunday,6,Meilahti
-2022-11-13 13:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-13+13%3A00%3A00&kesto=60&resid=1,60,1,13:00:00,Sunday,6,Meilahti
-2022-11-13 13:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-13+13%3A00%3A00&kesto=60&resid=2,60,2,13:00:00,Sunday,6,Meilahti
-2022-11-13 13:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-13+13%3A00%3A00&kesto=60&resid=3,60,3,13:00:00,Sunday,6,Meilahti
-2022-11-20 13:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-20+13%3A00%3A00&kesto=60&resid=1,60,1,13:00:00,Sunday,6,Meilahti
-2022-11-27 11:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-27+11%3A00%3A00&kesto=60&resid=5,60,5,11:00:00,Sunday,6,Meilahti
-2022-11-27 12:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-27+12%3A00%3A00&kesto=60&resid=2,60,2,12:00:00,Sunday,6,Meilahti
-2022-11-27 12:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-27+12%3A00%3A00&kesto=60&resid=3,60,3,12:00:00,Sunday,6,Meilahti
-2022-11-27 13:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-27+13%3A00%3A00&kesto=60&resid=1,60,1,13:00:00,Sunday,6,Meilahti
-2022-11-27 13:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-27+13%3A00%3A00&kesto=60&resid=2,60,2,13:00:00,Sunday,6,Meilahti
-2022-11-27 13:00:00,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-27+13%3A00%3A00&kesto=60&resid=3,60,3,13:00:00,Sunday,6,Meilahti
+,url,kesto,kenttä,aika,päivä,paiva_i,paikka
+0,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-11+19%3A00%3A00&kesto=60&resid=8,60,8,19:00:00,Friday,4,Meilahti
+1,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-18+19%3A00%3A00&kesto=60&resid=4,60,4,19:00:00,Friday,4,Meilahti
+2,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-25+19%3A00%3A00&kesto=60&resid=4,60,4,19:00:00,Friday,4,Meilahti
+3,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-05+10%3A00%3A00&kesto=60&resid=7,60,7,10:00:00,Saturday,5,Meilahti
+4,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-13+12%3A00%3A00&kesto=60&resid=1,60,1,12:00:00,Sunday,6,Meilahti
+5,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-13+12%3A00%3A00&kesto=60&resid=3,60,3,12:00:00,Sunday,6,Meilahti
+6,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-13+13%3A00%3A00&kesto=60&resid=1,60,1,13:00:00,Sunday,6,Meilahti
+7,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-13+13%3A00%3A00&kesto=60&resid=2,60,2,13:00:00,Sunday,6,Meilahti
+8,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-13+13%3A00%3A00&kesto=60&resid=3,60,3,13:00:00,Sunday,6,Meilahti
+9,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-20+13%3A00%3A00&kesto=60&resid=1,60,1,13:00:00,Sunday,6,Meilahti
+10,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-27+11%3A00%3A00&kesto=60&resid=5,60,5,11:00:00,Sunday,6,Meilahti
+11,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-27+12%3A00%3A00&kesto=60&resid=2,60,2,12:00:00,Sunday,6,Meilahti
+12,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-27+12%3A00%3A00&kesto=60&resid=3,60,3,12:00:00,Sunday,6,Meilahti
+13,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-27+13%3A00%3A00&kesto=60&resid=1,60,1,13:00:00,Sunday,6,Meilahti
+14,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-27+13%3A00%3A00&kesto=60&resid=2,60,2,13:00:00,Sunday,6,Meilahti
+15,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-27+13%3A00%3A00&kesto=60&resid=3,60,3,13:00:00,Sunday,6,Meilahti
+16,https://play.fi/meilahti/booking/create-booking?alkuaika=2022-11-27+13%3A00%3A00&kesto=60&resid=3,60,3,13:00:00,Sunday,6,Meilahti
